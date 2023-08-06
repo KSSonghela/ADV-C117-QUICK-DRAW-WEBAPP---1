@@ -1,0 +1,63 @@
+body
+{
+    background-color: darkgreen;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+h1
+{
+    color: red;
+    background-color: cornsilk;
+    text-align: center;
+}
+
+canvas
+{
+    position: fixed;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+    margin-top: 100px;
+}
+
+#score
+{
+    float: left;
+    color: black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#Timer
+{
+    float: right;
+    color: black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#label-1
+{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
+
+#label-2
+{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
+
+#label-3
+{
+    font-size: 25px;
+    font-weight: bolder;
+    color: cyan;
+}
+
+
